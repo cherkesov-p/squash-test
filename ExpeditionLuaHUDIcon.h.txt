@@ -1,0 +1,8 @@
+ExpeditionLuaHUDIcon.h
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameFeatures\GameEvents\Expedition\Components\ExpeditionLuaHUDIcon.h
+Line: 18
+Error code: V762
+Message code: It is possible a virtual function was overridden incorrectly. See qualifiers of function 'IsVisible' in derived class 'LuaHUDIcon' and base class 'LuaHUDIcon'.
+Author: maxim.martynov@playrix.com

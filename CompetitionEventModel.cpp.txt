@@ -1,0 +1,8 @@
+CompetitionEventModel.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameFeatures\SpecialEvent\Competition\CompetitionEventModel.cpp
+Line: 1851
+Error code: V811
+Message code: Decreased performance. Excessive type casting: string -> char * -> string. Consider inspecting first argument of the function IsLuaFunctionLoaded.
+Author: eric.vlasov@playrix.com
