@@ -1,0 +1,99 @@
+AmazonDB.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 3640
+Error code: V530
+Message code: The return value of function 'RelocateSaveRegistrations' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 3340
+Error code: V530
+Message code: The return value of function 'GetTask' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 3312
+Error code: V530
+Message code: The return value of function 'ResolveCurrentConflictAsync' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 3274
+Error code: V530
+Message code: The return value of function 'ResolveCurrentConflictAsync' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 3088
+Error code: V530
+Message code: The return value of function 'TryAcceptInboundSave' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 3285
+Error code: V530
+Message code: The return value of function 'ResolveCurrentConflictAsync' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 2177
+Error code: V530
+Message code: The return value of function 'RelocateSaveRegistrations' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 1621
+Error code: V530
+Message code: The return value of function 'TryAcceptInboundSave' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 1380
+Error code: V530
+Message code: The return value of function 'SynchronizeSave' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 1340
+Error code: V530
+Message code: The return value of function 'InitializeSave' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 1260
+Error code: V530
+Message code: The return value of function 'SynchronizeSave' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 1245
+Error code: V530
+Message code: The return value of function 'CheatRemoveSave' is required to be utilized.
+Author: ivan_shadrin@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 2569
+Error code: V530
+Message code: The return value of function 'SynchronizeSave' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\AmazonDB.cpp
+Line: 1605
+Error code: V808
+Message code: 'copyToken' object of 'basic_string' type was created but was not utilized.
+Author: nikolay.timofeev@playrix.com
