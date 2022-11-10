@@ -1,0 +1,8 @@
+ComicsReply.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameStory\Story\ComicsReply.cpp
+Line: 14
+Error code: V730
+Message code: Not all members of a class are initialized inside the constructor. Consider inspecting: hideTapToSkip, speakingDuration.
+Author: oleg.pogorelov@playrix.com

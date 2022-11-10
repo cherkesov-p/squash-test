@@ -1,0 +1,8 @@
+CompetitionMainWindowComponent.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameFeatures\GameEvents\Competition\Components\CompetitionMainWindowComponent.cpp
+Line: 997
+Error code: V501
+Message code: There are identical sub-expressions 'stateName != "InProgress"' to the left and to the right of the '&&' operator.
+Author: sergey.gubko@dmplayrix.com
