@@ -1,0 +1,15 @@
+AmazonDBCheats.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\Detail\AmazonDBCheats.cpp
+Line: 245
+Error code: V530
+Message code: The return value of function 'ResolveCurrentConflictAsync' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Server\Detail\AmazonDBCheats.cpp
+Line: 411
+Error code: V530
+Message code: The return value of function 'ResolveCurrentConflictAsync' is required to be utilized.
+Author: nikolay.timofeev@playrix.com

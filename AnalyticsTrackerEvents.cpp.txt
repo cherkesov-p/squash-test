@@ -1,0 +1,15 @@
+AnalyticsTrackerEvents.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Services\Analytics\AnalyticsTrackerManager\AnalyticsTrackerEvents.cpp
+Line: 883
+Error code: V557
+Message code: The 'blacklist' container is empty, the access to its elements is impossible.
+Author: eric.vlasov@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Services\Analytics\AnalyticsTrackerManager\AnalyticsTrackerEvents.cpp
+Line: 918
+Error code: V557
+Message code: The 'blacklist' container is empty, the access to its elements is impossible.
+Author: eric.vlasov@playrix.com
