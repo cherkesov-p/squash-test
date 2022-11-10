@@ -1,0 +1,8 @@
+ExpeditionIterateObjectsAction.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameFeatures\GameEvents\Expedition\Actions\ExpeditionIterateObjectsAction.cpp
+Line: 16
+Error code: V595
+Message code: The 'icsController' pointer was utilized before it was verified against nullptr. Check lines: 16, 32.
+Author: nikita.zaikin@playrix.com

@@ -1,0 +1,8 @@
+EventRewardItemComponent.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameFeatures\GameEvents\Common\Components\Rewards\EventRewardItemComponent.cpp
+Line: 72
+Error code: V811
+Message code: Decreased performance. Excessive type casting: string -> char * -> string. Consider inspecting first argument of the function DecreasePlayerItemAmount.
+Author: timofey.sherbinin@playrix.com

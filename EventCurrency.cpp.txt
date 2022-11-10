@@ -1,0 +1,15 @@
+EventCurrency.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Services\Analytics\EventLogging\EventCurrency.cpp
+Line: 62
+Error code: V817
+Message code: It is more efficient to seek ',' character rather than a string.
+Author: grotesc@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\Services\Analytics\EventLogging\EventCurrency.cpp
+Line: 66
+Error code: V817
+Message code: It is more efficient to seek ',' character rather than a string.
+Author: grotesc@playrix.com
