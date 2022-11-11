@@ -1,0 +1,15 @@
+Merge2PhotoalbumEventLogicComponent.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameFeatures\GameEvents\Merge2Photoalbum\Components\Merge2PhotoalbumEventLogicComponent.cpp
+Line: 426
+Error code: V779
+Message code: Unreachable code detected. It is possible that an error is present.
+Author: dmitry.volkov@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameFeatures\GameEvents\Merge2Photoalbum\Components\Merge2PhotoalbumEventLogicComponent.cpp
+Line: 353
+Error code: V779
+Message code: Unreachable code detected. It is possible that an error is present.
+Author: dmitry.volkov@playrix.com
