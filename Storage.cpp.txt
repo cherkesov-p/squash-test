@@ -1,0 +1,15 @@
+Storage.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\HSFramework\HSCore\src\DataStorage\Storage.cpp
+Line: 469
+Error code: V530
+Message code: The return value of function 'SerializeStoreAsync' is required to be utilized.
+Author: sergei.kanaykin@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\HSFramework\HSCore\src\DataStorage\Storage.cpp
+Line: 407
+Error code: V530
+Message code: The return value of function 'LoadFromJsonAsync' is required to be utilized.
+Author: nikolay.timofeev@playrix.com
