@@ -1,0 +1,8 @@
+MainWidget.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameStory\Editor\MainWidget.cpp
+Line: 688
+Error code: V808
+Message code: 'topLayer' object of 'basic_string' type was created but was not utilized.
+Author: atitov@playrix.com
