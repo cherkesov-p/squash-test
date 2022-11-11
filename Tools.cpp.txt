@@ -1,0 +1,43 @@
+Tools.cpp
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameStory\Editor\Tools.cpp
+Line: 1419
+Error code: V808
+Message code: 'g' object of 'basic_string' type was created but was not utilized.
+Author: eric.vlasov@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameStory\Editor\Tools.cpp
+Line: 1420
+Error code: V808
+Message code: 'u' object of 'basic_string' type was created but was not utilized.
+Author: eric.vlasov@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameStory\Editor\Tools.cpp
+Line: 1421
+Error code: V808
+Message code: 'p' object of 'basic_string' type was created but was not utilized.
+Author: eric.vlasov@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameStory\Editor\Tools.cpp
+Line: 1716
+Error code: V814
+Message code: Decreased performance. The 'strlen' function was called multiple times inside the body of a loop.
+Author: andrewe@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameStory\Editor\Tools.cpp
+Line: 1726
+Error code: V814
+Message code: Decreased performance. The 'strlen' function was called multiple times inside the body of a loop.
+Author: andrewe@playrix.com
+---
+Level: 1
+File: D:\work\ed67c48bffeb524c\work\gardenscapes\src\GameStory\Editor\Tools.cpp
+Line: 1721
+Error code: V814
+Message code: Decreased performance. The 'strlen' function was called multiple times inside the body of a loop.
+Author: andrewe@playrix.com
